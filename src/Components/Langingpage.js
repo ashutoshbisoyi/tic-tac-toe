@@ -21,7 +21,7 @@ const Langingpage = (props) => {
           alt='tic-tac-toe'
           className='img-fluid'
         />
-        <Link to='/player'>
+        <Link to='/tic-tac-toe/player'>
           <motion.button
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}

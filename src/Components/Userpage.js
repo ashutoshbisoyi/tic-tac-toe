@@ -25,7 +25,7 @@ const Userpage = () => {
       localStorage.setItem('player2Name', player2Name.slice(0, 10));
       localStorage.setItem('player1Score', 0);
       localStorage.setItem('player2Score', 0);
-      history.push('/game');
+      history.push('/tic-tac-toe/game');
     }
   };
 

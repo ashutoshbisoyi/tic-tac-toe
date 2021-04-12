@@ -297,7 +297,7 @@ const Game = () => {
           </div>
         </>
       ) : (
-        <Redirect to='/player' />
+        <Redirect to='/tic-tac-toe/player' />
       )}
     </>
   );

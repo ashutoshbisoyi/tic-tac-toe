@@ -8,9 +8,9 @@ const App = () => {
     <div className='App'>
       <Router>
         <Switch>
-          <Route exact path='/' component={Langingpage} />
-          <Route exact path='/player' component={Userpage} />
-          <Route exact path='/game' component={Game} />
+          <Route exact path='/tic-tac-toe/' component={Langingpage} />
+          <Route exact path='/tic-tac-toe/player' component={Userpage} />
+          <Route exact path='/tic-tac-toe/game' component={Game} />
         </Switch>
       </Router>
     </div>
