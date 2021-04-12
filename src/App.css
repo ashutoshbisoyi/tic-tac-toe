@@ -110,6 +110,7 @@ a:hover {
   height: 100vh;
   width: 100%;
   position: relative;
+  overflow: hidden;
 }
 .game-page .statistics {
   position: relative;
@@ -234,6 +235,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
+  overflow: hidden;
 }
 .my-modal img {
   width: 80%;

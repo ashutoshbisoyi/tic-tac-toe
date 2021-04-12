@@ -39,7 +39,7 @@ const Game = () => {
     localStorage.removeItem('player2Name');
     localStorage.removeItem('player1Score');
     localStorage.removeItem('player2Score');
-    history.push('/');
+    history.push('/tic-tac-toe');
   };
 
   const handleDraw = () => {
