@@ -8,7 +8,10 @@ This project is live at [ashutoshbisoyi.github.io/tic-tac-toe/](ashutoshbisoyi.g
 
 ## Project Snapshots
 
-![project snap](https://drive.google.com/uc?export=view&id=1b31t0PVhcgZPQ5rqwbgTbGzN_7Hdr21a "Title")
+![project snap](https://drive.google.com/uc?export=view&id=1kUozA-Zjg4mUOpnmcumwm92Qzmfd5wya)
+![project snap](https://drive.google.com/uc?export=view&id=1ZHITCEYg777uQhL6UpPMrJ5BjofzfNPW)
+![project snap](https://drive.google.com/uc?export=view&id=14ihqAav2drG8_W6e44b6juH6JGLTD3rR)
+![project snap](https://drive.google.com/uc?export=view&id=1odwp_W9uY3T0BXKro3Bp7BHOlNlNhPvP)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
